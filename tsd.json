@@ -9,7 +9,7 @@
       "commit": "91d45c49a3b5cd6a0abbf5f319c1406fd4f2b1e7"
     },
     "react/react.d.ts": {
-      "commit": "91d45c49a3b5cd6a0abbf5f319c1406fd4f2b1e7"
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
     },
     "redux/redux.d.ts": {
       "commit": "91d45c49a3b5cd6a0abbf5f319c1406fd4f2b1e7"
@@ -36,6 +36,9 @@
       "commit": "91d45c49a3b5cd6a0abbf5f319c1406fd4f2b1e7"
     },
     "lodash/lodash.d.ts": {
+      "commit": "c6c068935a58aa58087a309740bcf933600140b8"
+    },
+    "react/react-dom.d.ts": {
       "commit": "c6c068935a58aa58087a309740bcf933600140b8"
     }
   }
