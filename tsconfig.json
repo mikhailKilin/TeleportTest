@@ -1,0 +1,16 @@
+{
+  "version": "1.7.5",
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "outDir": "dist"
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "node_modules/typescript/lib/lib.d.ts"
+  ]
+}

@@ -1,0 +1,13 @@
+doctype html
+html
+    head
+        title Login
+        meta(name='viewport', content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no')
+        - if(!dev)
+            link(rel="stylesheet", type='text/css', href="/_assets/index.css")
+    body
+        #app.common
+        - if(!dev)
+            script(src='/_assets/index.js')
+        - if(dev)
+            script(src='http://localhost:2992/_assets/index.js')

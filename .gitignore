@@ -1,0 +1,17 @@
+.vscode/
+.idea/
+node_modules/
+npm-debug.log
+build
+build/stats-dev.json*
+tmp/
+dist/
+public/components/
+typings/
+sessions/
+.sw[a-z]
+banners/
+.DS_Store
+local_typings/
+public/.DS_Store
+uploads/

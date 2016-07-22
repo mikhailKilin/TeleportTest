@@ -1,0 +1,4 @@
+export default {
+    SET_RESERVE: "SET_RESERVE",
+    RESET_RESERVE: "RESET_RESERVE"
+}
